@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-How to use the WordCount script
-==================================================
+How to use the WordCount program
+================================
 
-The wordcount script is a python script reads an input file and writes the frequency distribution of words to the given output file.
+The wordcount program is a python script, which reads an input file and writes the frequency distribution of words to the given output file.
 
 
 .. toctree::
