@@ -5,7 +5,7 @@ This is where I explain all the things that everybody wondered about.
 They can be found in this table.
 
 =============== ======
-Secret          Prime
+Secret          Advice
 =============== ======
 Use words       Always
 Build sentence  Don't try
